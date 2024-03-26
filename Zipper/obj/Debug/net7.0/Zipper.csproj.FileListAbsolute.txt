@@ -1,0 +1,14 @@
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\Zipper.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\Zipper.AssemblyInfoInputs.cache
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\Zipper.AssemblyInfo.cs
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\Zipper.csproj.CoreCompileInputs.cache
+D:\PGU\par\Zipper\Zipper\bin\Debug\net7.0\Zipper.exe
+D:\PGU\par\Zipper\Zipper\bin\Debug\net7.0\Zipper.deps.json
+D:\PGU\par\Zipper\Zipper\bin\Debug\net7.0\Zipper.runtimeconfig.json
+D:\PGU\par\Zipper\Zipper\bin\Debug\net7.0\Zipper.dll
+D:\PGU\par\Zipper\Zipper\bin\Debug\net7.0\Zipper.pdb
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\Zipper.dll
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\refint\Zipper.dll
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\Zipper.pdb
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\Zipper.genruntimeconfig.cache
+D:\PGU\par\Zipper\Zipper\obj\Debug\net7.0\ref\Zipper.dll
